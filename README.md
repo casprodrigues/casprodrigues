@@ -14,4 +14,5 @@
 
 #### Latest Blog Posts (In pt-BR :brazil:)
 <!-- BLOG-POST-LIST:START -->
+- [IndieWeb: Configurando o RelMeAuth para este site](https://crodrigues.dev/blog/indieweb-relmeauth/)
 <!-- BLOG-POST-LIST:END -->
