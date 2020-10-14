@@ -11,3 +11,7 @@
 * :desktop_computer: I mainly work with Java, Spring, Angular, Git and Docker
 * :seedling: I'm learning Quarkus and Rust
 * :biking_man: I like to ride a bike in my spare time
+
+#### Latest Blog Posts (In pt-BR :brazil:)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
