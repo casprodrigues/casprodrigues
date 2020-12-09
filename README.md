@@ -14,5 +14,6 @@
 
 #### Latest Blog Posts (In pt-BR :brazil:)
 <!-- BLOG-POST-LIST:START -->
+- [Snooze Client (Parte 1): Uma framework para gerar clientes HTTP para Spring](https://crodrigues.dev/blog/snooze-client-introducao/)
 - [IndieWeb: Configurando o RelMeAuth para este site](https://crodrigues.dev/blog/indieweb-relmeauth/)
 <!-- BLOG-POST-LIST:END -->
