@@ -11,9 +11,3 @@
 * :desktop_computer: I mainly work with Java, Spring, Angular, Git and Docker
 * :seedling: I'm learning Quarkus and Rust
 * :biking_man: I like to ride a bike in my spare time
-
-#### Latest Blog Posts (In pt-BR :brazil:)
-<!-- BLOG-POST-LIST:START -->
-- [Snooze Client (Parte 1): Uma framework para gerar clientes HTTP para Spring](https://crodrigues.dev/blog/snooze-client-introducao/)
-- [IndieWeb: Configurando o RelMeAuth para este site](https://crodrigues.dev/blog/indieweb-relmeauth/)
-<!-- BLOG-POST-LIST:END -->
